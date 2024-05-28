@@ -15,8 +15,10 @@ CORSO DI GRAFICA IN MOVIMENTO SUPSI 2024
  https://gattoviola.github.io/GIM/Esercizio_1B/index.html
 
 #esercizio 1C
+ https://gattoviola.github.io/GIM/Esercizio_1C/README.md
 
 #esercizio 2
+https://gattoviola.github.io/GIM/Esercizio_2/logo.html
 
 #esercizio 3A
  https://gattoviola.github.io/GIM/Esercizio_3A/orologio_analogico.html
